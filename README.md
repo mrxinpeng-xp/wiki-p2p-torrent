@@ -6,11 +6,11 @@
 * https://thepiratebay.org/
 * https://yts.mx/
 * https://1337x.to/ - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/)
-* https://rutracker.org/ - Video / Audio / Comics / Magazines / Software / Sign-Up Required
-* https://www.limetorrents.lol/
-* https://www.torrentdownloads.pro/
-* https://extratorrent.st/
-* https://rutor.is/
+* [rutracker](https://rutracker.org/) - Video / Audio / Comics / Magazines / Software / Sign-Up Required
+* [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
+* [torrentdownloads](https://www.torrentdownloads.pro/)
+* [extratorrent](https://extratorrent.st/)
+* [rutor](https://rutor.is/)
 * https://uztracker.net/
 * https://nnmclub.to/
 * https://www.torrenting.com/

@@ -26,20 +26,10 @@
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
 * [Cleanbay](https://cleanbay.netlify.app/)
-* CloudTorrents
-* Torrents-CSV
-* FileMood
-* BT4G
-* PiratesParadise
-* snowfl
-* Torlock
-* YourBittorrent
-* BTSearch
-* Torrent CSE / CSE 2 - Multi Site Search
-* 0Mag, 2 - Magnet Link Sharing Platform
-* Magnetissimo - Magnet Search Web App
-TorrentSearchRobot or TorrentHuntBot - Telegram Torrent Search Bots
-Torrentinim or BitMagnet - Self-Hosted Torrent Search Engines
+* [CloudTorrents](https://cloudtorrents.com/)
+* [FileMood](https://filemood.com/)
+* [BT4G](https://bt4gprx.com/)
+* [PiratesParadise](https://piratesparadise.org/)
 
 
 

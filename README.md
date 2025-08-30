@@ -20,13 +20,12 @@
 * ⭐ [ExT, 2 / Proxy](https://ext.to/)
 * ⭐ [BTDigg - DHT-Based / .i2p / .onion](https://btdig.com/)
 * ⭐ [Knaben](https://knaben.org/)
-* ⁠Trackly
-* TorrentProject, 2 - DHT-Based
-* DaMagNet - DHT-Based
-* TorrentDownload
-* TorrentQuest
-* TorrentCORE
-* Cleanbay
+* ⁠[Trackly](https://trackly.cc/)
+* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
+* [DaMagNet](https://damag.net/) - DHT-Based
+* [TorrentDownload](https://www.torrentdownload.info/)
+* [TorrentQuest](https://torrentquest.com/)
+* [Cleanbay](https://cleanbay.netlify.app/)
 * CloudTorrents
 * Torrents-CSV
 * FileMood

@@ -5,8 +5,8 @@
 * https://torrentgalaxy.one/
 * https://thepiratebay.org/
 * https://yts.mx/
-* https://1337x.to/
-* https://rutracker.org/
+* https://1337x.to/ - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/)
+* https://rutracker.org/ - Video / Audio / Comics / Magazines / Software / Sign-Up Required
 * https://www.limetorrents.lol/
 * https://www.torrentdownloads.pro/
 * https://extratorrent.st/

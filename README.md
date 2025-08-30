@@ -41,3 +41,10 @@
 * Magnetissimo - Magnet Search Web App
 TorrentSearchRobot or TorrentHuntBot - Telegram Torrent Search Bots
 Torrentinim or BitMagnet - Self-Hosted Torrent Search Engines
+
+
+
+منابع:
+* https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting
+* https://torrentfreak.com/top-torrent-sites/
+

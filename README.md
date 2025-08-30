@@ -3,6 +3,7 @@
 
 فهرست سایتهای تورنت و منابع مرتبط با شبکه تورنت
 * https://torrentgalaxy.one/
+* https://yts.mx/
 * https://1337x.to/
 * https://rutracker.org/
 * https://www.limetorrents.lol/

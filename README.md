@@ -14,7 +14,7 @@
 * [uztracker](https://uztracker.net/)
 * [nnmclub](https://nnmclub.to/)
 * [torrenting.com](https://www.torrenting.com/)
-* [Knaben.info](Knaben.info) - پروکسی های فعال برای دسترسی یه سایت های جستجوی تورنت 
+* [Knaben.info](https://Knaben.info) - پروکسی های فعال برای دسترسی یه سایت های جستجوی تورنت 
 
 سایت های گردآورنده و جستجوی تورنت: 
 این سایت ها معمولا لیست ای از خودشون ندارند و صرفا مکانیزم جستجو را راحت تر میکنند.

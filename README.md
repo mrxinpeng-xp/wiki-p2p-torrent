@@ -16,6 +16,8 @@
 * https://www.torrenting.com/
 * Knaben.info - Torrent Site Proxies
 
+سایت های گردآورنده و جستجوی تورنت: 
+این سایت ها معمولا لییست ای از خودشون ندارند و صرفا مکانیزم جستجو را راحت تر میکنند.
 
 * ⭐ [ExT, 2 / Proxy](https://ext.to/)
 * ⭐ [BTDigg - DHT-Based / .i2p / .onion](https://btdig.com/)

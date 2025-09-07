@@ -6,7 +6,7 @@
 * https://thepiratebay.org/
 * https://yts.mx/
 * https://1337x.to/ - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/)
-* [rutracker](https://rutracker.org/) - Video / Audio / Comics / Magazines / Software / Sign-Up Required
+* [rutracker](https://rutracker.org/) - فیلم / آهنگ / کامیک / مجله / نرم افزار / ثبت نام نیاز است
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [torrentdownloads](https://www.torrentdownloads.pro/)
 * [extratorrent](https://extratorrent.st/)

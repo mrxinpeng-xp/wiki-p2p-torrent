@@ -4,5 +4,5 @@ theme: jekyll-theme-cayman
 
 
 # Custom CSS
-include:
-  - assets/css/style.css
+#include:
+#  - assets/css/style.css

@@ -3,7 +3,7 @@
 ### فهرست سایتهای فعال جستجوی تورنت
 
 
-سایت های جستجوی تورنت آخرین بروزرسانی شهریور ماه 1404
+آخرین بروزرسانی شهریور ماه 1404
 * [TorrentGalaxy](https://torrentgalaxy.one/)
 * [ThepirateBay](https://thepiratebay.org/)
 * [YTS](https://yts.mx/)

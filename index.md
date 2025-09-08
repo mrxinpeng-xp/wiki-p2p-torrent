@@ -4,10 +4,10 @@
 
 
 سایت های جستجوی تورنت آخرین بروزرسانی شهریور ماه 1404
-* https://torrentgalaxy.one/
-* https://thepiratebay.org/
-* https://yts.mx/
-* https://1337x.to/ - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/)
+* [TorrentGalaxy](https://torrentgalaxy.one/)
+* [ThepirateBay](https://thepiratebay.org/)
+* [YTS](https://yts.mx/)
+* [1337x](https://1337x.to/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/)
 * [rutracker](https://rutracker.org/)
 
 - فیلم / آهنگ / کامیک / مجله / نرم افزار / ثبت نام نیاز است
@@ -40,8 +40,11 @@
 * [PiratesParadise](https://piratesparadise.org/)
 
 
+### سرویس مستقیم کننده لینک تورنت
+* [بیتسو](https://bitso.ir)
+* [سیدباکس تورنت](https://rubit.ir)
 
-منابع:
-* https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting
-* https://torrentfreak.com/top-torrent-sites/
+### منابع:
+* [Github Tracker list](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting) 
+* [TorrentFreak](https://torrentfreak.com/top-torrent-sites/)
 

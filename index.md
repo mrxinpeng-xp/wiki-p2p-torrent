@@ -8,10 +8,7 @@
 * [ThepirateBay](https://thepiratebay.org/)
 * [YTS](https://yts.mx/)
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/)
-* [rutracker](https://rutracker.org/)
-
-
-- فیلم / آهنگ / کامیک / مجله / نرم افزار / ثبت نام نیاز است
+* [rutracker](https://rutracker.org/) فیلم / آهنگ / کامیک / مجله / نرم افزار / ثبت نام نیاز است
 زبان سایت روسی است که میتونید از گوگل ترنسلیت برای ترجمه سایت استفاده کنید.
 
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books

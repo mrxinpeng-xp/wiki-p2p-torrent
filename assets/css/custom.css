@@ -1,0 +1,11 @@
+/* Force right-to-left layout and Persian text alignment */
+html, body {
+  direction: rtl !important;
+  text-align: right !important;
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+/* Adjust headings and paragraphs */
+h1, h2, h3, h4, h5, h6, p, li {
+  text-align: right;
+}

@@ -2,3 +2,10 @@ lang: fa
 title: فهرست سایت های دانلود تورنت فعال
 description: این لیستی از سایت های تورنت است که بصورت دوره ای بروزرسانی میشود و سایت های جدید دانلود تورنت به آن اضافه خواهد شد.
 theme: jekyll-theme-cayman
+
+# Custom CSS for Cayman theme
+plugins:
+  - jekyll-include-cache
+
+# Optional: Add a variable for custom styles
+custom_css: /assets/css/custom.css
